@@ -49,7 +49,7 @@ dependencies {
     // ML Kit Face Detection
     implementation(libs.face.detection)
 
-    // CameraX.
+    // CameraX
     implementation(libs.androidx.camera.camera2)
     implementation(libs.androidx.camera.core)
     implementation(libs.androidx.camera.lifecycle)
