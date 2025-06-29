@@ -46,7 +46,7 @@ dependencies {
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
 
-    // ML Kit Face Detection.
+    // ML Kit Face Detection
     implementation(libs.face.detection)
 
     // CameraX.
